@@ -1,0 +1,19 @@
+{
+  "name": "splatbotoont",
+  "version": "1.0.0",
+  "description": "c'est un bot qui relie le jeux splatoon 1 et 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "ffmpeg": "0.0.4",
+    "splatoon2.ink-node-api-client": "^0.3.0",
+    "yt-search": "^0.2.0",
+    "ytdl-core": "^0.26.3"
+  },
+  "devDependencies": {}
+}

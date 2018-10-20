@@ -18,4 +18,4 @@ console.log(bot.users.displayName + " est connecté");
 
 
 
-bot.login("NTAyMTEwNTc0Mjk4MDA1NTA1.Dqj8MA.XFCUQ_U7_rI_dWY8s68IRPouvTA")
+bot.login("process.env.token")
